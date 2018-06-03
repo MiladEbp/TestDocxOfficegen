@@ -1,0 +1,17 @@
+{
+  "name": "testdevofficegen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docx-officegen": "^1.0.19"
+  },
+  "devDependencies": {
+    "@types/node": "^10.3.0"
+  }
+}
